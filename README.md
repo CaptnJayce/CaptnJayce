@@ -9,11 +9,6 @@
   
 </div>
 
-<h4 align="center">What am I doing now?</h4>
-<div align="center">
-  
-<a href="https://discord.com/users/775894736623239260"><img src="https://lanyard.kyrie25.me/api/775894736623239260?&imgStyle=square&imgBorderRadius=30px&gradient=645CBB-A084DC-BFACE2-EBC7E6&animationDuration=4s&theme=:dark&borderRadius=10px&idleMessage=(%20not%20online%20now.%20)" alt="Discord Presence">  
-
 </div>
      
 <h4 align="center">Toolset</h4>
