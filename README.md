@@ -11,9 +11,8 @@
 
 </div>
      
-<h4 align="center">Toolset</h4>
 <div>
-  <div align="center">
+  <div align="left">
    <h4>Tools/Envrionment</h4>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
    <img width="12" />
@@ -21,13 +20,13 @@
    <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="vitejs logo"  />
    <img width="12" />  
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-   <img width="12" />
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+   <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" height="40" alt="windows10/11 logo"  />
    <img width="12" />
   </div> 
   
-  <div align = "center">
+  <div align="right">
   <h4>Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
