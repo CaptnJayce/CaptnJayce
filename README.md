@@ -1,6 +1,6 @@
-<h2 align="center">👋 Hello! <br>My name is Jayce. I'm a Computer Science graduate and aspiring Game Developer</h2>
+<h2 align="left">👋 Hello! <br>My name is Jayce. I'm a Computer Science graduate and aspiring Game Developer</h2>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=CaptnJayce&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
@@ -20,7 +20,7 @@
    <img width="12" />
   </div> 
   
-  <div align="right">
+  <div align="left">
   <h4>Languages</h4>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
