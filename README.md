@@ -13,7 +13,7 @@
      
 <h4 align="center">Toolset</h4>
 <div>
-  <div>
+  <div align="space-between">
    <h4>Tools/Envrionment</h4>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="40" alt="godot logo"  />
    <img width="12" />
