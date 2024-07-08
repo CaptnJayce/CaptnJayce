@@ -1,5 +1,5 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
-<img src="https://tenor.com/view/donot-do-not-do-this-cat-angry-cat-arrive-gif-17529428146921895359" width="15px">
+<img src="https://tenor.com/view/donot-do-not-do-this-cat-angry-cat-arrive-gif-17529428146921895359">
 
 
 
