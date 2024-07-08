@@ -1,4 +1,4 @@
-### I'm CaptnJayce
+### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
 
 
 #### currently learning:
