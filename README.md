@@ -15,7 +15,13 @@
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-#### socials
+#### socials (i dont use em)
+[![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
+[![Youtube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](www.youtube.com/@captnjayce)
+[![Discord](https://img.shields.io/badge/-Discord-424549?style=flat-square&logo=discord)](https://discord.com/users/775894736623239260)
+[![Twitter](https://img.shields.io/badge/-Twitter-424549?style=flat-square&logo=X)](https://twitter.com/https://x.com/CaptnJayce)
+
+#### source
 icons from:\
 https://shields.io/badges
 
