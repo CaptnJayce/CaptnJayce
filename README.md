@@ -6,18 +6,19 @@
 
 
 #### languages / tools / environment: 
+![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
+
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![Github Desktop](https://img.shields.io/badge/Github%20Desktop-black?style=flat-square&logo=github)
 
 </div>
 
 
-icons from: 
+icons from:\
 https://shields.io/badges
 
-profile stats:
+profile stats:\
 https://github.com/maurodesouza/profile-readme-generator
