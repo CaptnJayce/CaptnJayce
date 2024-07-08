@@ -1,6 +1,5 @@
-<p align = "left">👋 hello! my name is Jayce. im a Computer Science graduate and aspiring game developer<p>
+<h2 align = "left">👋 hello! my name is Jayce. im a Computer Science graduate and aspiring game developer<h2>
 
-#### what im doing
 Learning:
 - ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 - ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
