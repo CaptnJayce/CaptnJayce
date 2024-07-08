@@ -12,10 +12,14 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 
+![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
+![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+
+
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 
-#### socials (i dont use em)
+#### socials
 [![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
 [![Youtube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](www.youtube.com/@captnjayce)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://discord.com/users/775894736623239260)
