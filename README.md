@@ -1,8 +1,6 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="30px">
 
-
-
 #### currently learning:
 - ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 - ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
@@ -30,10 +28,3 @@
 [![Youtube](https://img.shields.io/badge/YouTube-black?style=flat-square&logo=youtube)](www.youtube.com/@captnjayce)
 [![Discord](https://img.shields.io/badge/-Discord-black?style=flat-square&logo=discord)](https://discord.com/users/775894736623239260)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=flat-square&logo=X)](https://twitter.com/https://x.com/CaptnJayce)
-
-#### source
-icons from:\
-https://shields.io/badges
-
-profile stats:\
-https://github.com/maurodesouza/profile-readme-generator
