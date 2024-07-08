@@ -1,10 +1,16 @@
-<h3 align="left">👋 Hello! My name is Jayce. I'm a Computer Science graduate and aspiring Game Developer</h3>
+<h4 align="left">👋 hello! my name is Jayce. im a Computer Science graduate and aspiring game developer</h4>
 
-#### stats
-<div align ="left">
-<img src="https://github-readme-stats.vercel.app/api?username=CaptnJayce&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" alt="stats graph" height="210"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=donut&langs_count=6&theme=midnight-purple&hide_border=true&order=2"alt="languages graph" height="210"/>
-</div>
+#### what im doing
+- Learning:
+- ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
+- ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
+- ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+
+- Currently Developing:
+- Ideas...
+- AlgorithmVisualizser (Website in ReactJS, Vite, Typescript)
+- QuoteKeeper (Discord bot for storing, managing and fetching messages said by users)
+- LearnArabic (A simple teaching game developed in Godot to help children learn Arabic)
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
@@ -15,9 +21,14 @@
 ![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 
-
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+
+#### stats
+<div align ="left">
+<img src="https://github-readme-stats.vercel.app/api?username=CaptnJayce&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=true&order=1" alt="stats graph" height="210"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=donut&langs_count=6&theme=midnight-purple&hide_border=true&order=2"alt="languages graph" height="210"/>
+</div>
 
 #### socials
 [![ItchIO](https://img.shields.io/badge/ItchIO-black?style=flat-square&logo=itch.io)](https://captnjayce.itch.io/)
