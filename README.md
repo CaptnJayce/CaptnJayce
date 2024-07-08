@@ -1,4 +1,4 @@
-<h4 align="left">👋 hello! my name is Jayce. im a Computer Science graduate and aspiring game developer</h4>
+<p align = "left">👋 hello! my name is Jayce. im a Computer Science graduate and aspiring game developer<p>
 
 #### what im doing
 Learning:
