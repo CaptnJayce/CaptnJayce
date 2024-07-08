@@ -13,6 +13,7 @@
 
 ![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
+![Aseprite](https://img.shields.io/badge/Aseprite-black?logo=aseprite)
 
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
