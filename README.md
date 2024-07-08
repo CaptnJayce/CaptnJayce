@@ -11,7 +11,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 ![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
-![GithubDesktop](https://img.shields.io/badge/GithubDesktop-black?style=flat-square&logo=github)
+![Github Desktop](https://img.shields.io/badge/Github%20Desktop-black?style=flat-square&logo=github)
 
 </div>
 
