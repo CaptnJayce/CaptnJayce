@@ -6,7 +6,6 @@
 #### currently learning:
 - ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 - ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
-- ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
