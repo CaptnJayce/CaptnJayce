@@ -5,11 +5,13 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptnJayce&locale=en&hide_title=false&layout=donut&langs_count=6&theme=midnight-purple&hide_border=true&order=2" height="210"alt="languages graph"/>
 
 
-#### the regular: 
+#### languages / tools / environment: 
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
-
+![SublimeText](https://img.shields.io/badge/Sublime-black?style=flat-square&logo=sublimetext)
+![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![GithubDesktop](https://img.shields.io/badge/GithubDesktop-black?style=flat-square&logo=github)
 
 </div>
 
