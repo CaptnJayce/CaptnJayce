@@ -1,5 +1,5 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
-<img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="30px">
+<img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="50px">
 
 #### currently learning:
 - ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
