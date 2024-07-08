@@ -1,5 +1,5 @@
 ### Hello!👋🏻 I'm CaptnJayce. I'm a computer science graduate and aspiring game developer :)
-<img src="https://tenor.com/view/plink-nerd-plank-plink-cat-cat-gif-17569403098672348326">
+<img src="https://tenor.com/view/plink-nerd-plank-plink-cat-cat-gif-17569403098672348326" width="15px">
 
 
 
