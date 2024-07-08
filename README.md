@@ -1,12 +1,10 @@
+### I'm CaptnJayce
+
+
+#### currently learning:
 - ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 - ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
 - ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
-
-- Ideas...
-- AlgorithmVisualizser (Website in ReactJS, Vite, Typescript)
-- QuoteKeeper (Discord bot for storing, managing and fetching messages said by users)
-- LearnArabic (A simple teaching game developed in Godot to help children learn Arabic)
-  
 
 #### languages / tools / environment: 
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
