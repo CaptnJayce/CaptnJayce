@@ -8,7 +8,7 @@
 
 <div>
     <h4>The Regular:</h4>
-    ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
+    ![Static Badge](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 
 </div>
 
