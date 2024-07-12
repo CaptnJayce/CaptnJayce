@@ -9,7 +9,6 @@
 ![C#](https://img.shields.io/badge/C%23-black?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=typescript)
 
 ![Godot Engine](https://img.shields.io/badge/Godot-black?style=flat-square&logo=godot%20engine)
 ![Unity](https://img.shields.io/badge/Unity-black?style=flat-square&logo=unity)
