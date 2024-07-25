@@ -2,7 +2,6 @@
 <img src="https://media1.tenor.com/m/89MPCBQDPKYAAAAd/plink-nerd.gif" width="50px">
 
 #### currently learning:
-- ![C](https://img.shields.io/badge/-black?style=flat-square&logo=c)
 - ![Neovim](https://img.shields.io/badge/Neovim-black?style=flat-square&logo=neovim)
 
 #### languages / tools / environment: 
